@@ -33,7 +33,4 @@ payload map ( (payload01 , indexOfPayload01) -> {
 		
 		
 </flow>
-	<flow name="accountsfetchFlow" doc:id="814300d4-aaff-4113-b7e6-d06dde9f89ca" >
-		<logger level="INFO" doc:name="Logger" doc:id="1caaf7dc-fea1-433c-a4a5-8dd112ea44d8" message="in second flow"/>
-	</flow>
 </mule>
